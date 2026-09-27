@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="96" viewBox="0 0 1280 96" fill="none">
+<style>
+  .sans{font-family:'SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif} .mono{font-family:'SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace}
+  
+  @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+</style>
+<text x="4" y="30" class="mono" font-size="14" letter-spacing="2.5" fill="#FF8F6B">ON GITHUB</text>
+<text x="2" y="72" class="sans" font-size="34" font-weight="800" letter-spacing="-1" fill="#8FA5AA">Recent activity.</text>
+</svg>

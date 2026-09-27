@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="48" viewBox="0 0 137 48" fill="none">
+<style>
+  .sans{font-family:'SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif} .mono{font-family:'SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace}
+  
+  @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+</style>
+<rect x=".5" y=".5" width="136.6" height="47" rx="23.5" fill="#0A1013" stroke="#ffffff" stroke-opacity=".14"/>
+<g transform="translate(30,24)"><rect x="-8" y="-8" width="16" height="16" rx="3.5" fill="#5CCFC0"/><text x="0" y="4.6" text-anchor="middle" class="sans" font-size="11" font-weight="800" fill="#0A1013">in</text></g>
+<text x="50" y="29.5" class="sans" font-size="16" font-weight="600" fill="#E8EFEF">LinkedIn</text>
+</svg>

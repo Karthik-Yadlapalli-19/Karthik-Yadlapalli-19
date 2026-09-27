@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="48" viewBox="0 0 110 48" fill="none">
+<style>
+  .sans{font-family:'SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif} .mono{font-family:'SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace}
+  
+  @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+</style>
+<rect x=".5" y=".5" width="109.0" height="47" rx="23.5" fill="#0A1013" stroke="#ffffff" stroke-opacity=".14"/>
+<g transform="translate(30,24)"><rect x="-9" y="-6.5" width="18" height="13" rx="2.5" stroke="#FF8F6B" stroke-width="1.8"/><path d="M-8-5L0 1.5L8-5" stroke="#FF8F6B" stroke-width="1.6"/></g>
+<text x="50" y="29.5" class="sans" font-size="16" font-weight="600" fill="#E8EFEF">Email</text>
+</svg>

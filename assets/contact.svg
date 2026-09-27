@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" fill="none">
+<style>
+  .sans{font-family:'SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif} .mono{font-family:'SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace}
+  
+  @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+</style>
+<defs>
+  <linearGradient id="ctbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1013"/><stop offset="1" stop-color="#0F1A1E"/></linearGradient>
+  <pattern id="ctdots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1.2" fill="#ffffff" fill-opacity=".045"/></pattern>
+  <radialGradient id="ct0" cx=".5" cy="1.1" r=".7"><stop offset="0" stop-color="#FF8F6B" stop-opacity="0.22"/><stop offset="1" stop-color="#FF8F6B" stop-opacity="0"/></radialGradient><radialGradient id="ct1" cx=".1" cy="0" r=".4"><stop offset="0" stop-color="#5CCFC0" stop-opacity="0.1"/><stop offset="1" stop-color="#5CCFC0" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="240" rx="28" fill="url(#ctbg)"/>
+<rect width="1280" height="240" rx="28" fill="url(#ctdots)"/>
+<rect width="1280" height="240" rx="28" fill="url(#ct0)"/><rect width="1280" height="240" rx="28" fill="url(#ct1)"/>
+<rect x=".5" y=".5" width="1279" height="239" rx="27.5" stroke="#ffffff" stroke-opacity=".08"/><text x="640" y="92" text-anchor="middle" class="sans" font-size="50" font-weight="800" letter-spacing="-1.8" fill="#E8EFEF">Have an app in mind<tspan fill="#FF8F6B">?</tspan></text>
+<text x="640" y="132" text-anchor="middle" class="sans" font-size="19" fill="#97ACB1">I can take it from the first screen to the database.</text>
+<rect x="490" y="160" width="300" height="46" rx="23" fill="#FF8F6B"/>
+<text x="640" y="189" text-anchor="middle" class="mono" font-size="16" font-weight="600" fill="#1A0E0A">1901.karthik@gmail.com</text>
+</svg>
